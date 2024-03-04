@@ -2,5 +2,5 @@
 Portfolio website
 
 <h1>ScreenShot</h1>
-![screenshot](kishoremain.png)
+![screenshot](img/portss1.jpg)
 
