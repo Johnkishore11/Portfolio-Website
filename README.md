@@ -14,7 +14,8 @@ This is a simple portfolio website designed to showcase my skills, projects, and
 
 `Smooth Scrolling and Animations:` Added interactivity using JavaScript.
 
-🛠️ Technologies Used
+## Technologies Used 🛠️ 
+
 `HTML5:` Structure and layout of the website.
 
 `CSS3:` Styling, including animations and responsiveness.
