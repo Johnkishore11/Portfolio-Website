@@ -24,7 +24,7 @@ This is a simple portfolio website designed to showcase my skills, projects, and
 
 
 ## Screenshots 📸
-![Screenshot](Portfolio-website/img/portss2.jpg)
+![johnkishore11 github io_Portfolio-website_](https://github.com/user-attachments/assets/1f76037f-90e0-4ec0-9518-24b7624729b3)
 
 ## Contact 💬
 For any questions or feedback, feel free to reach out at:
